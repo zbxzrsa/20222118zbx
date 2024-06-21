@@ -1,0 +1,6 @@
+ version: '3'
+ services:
+   server:
+     image: caiqinglin111/docker-ci-basic:latest
+     ports:
+       - 8083:80
