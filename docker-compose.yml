@@ -3,4 +3,4 @@
    server:
      image: zhangbaixuan20222118/docker-ci-basic:latest
      ports:
-       - 8082:80
+       - 8084:80
